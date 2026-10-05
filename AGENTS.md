@@ -4,7 +4,7 @@ This is a fork of [Bassey240/vikunja-pwa](https://github.com/Bassey240/vikunja-p
 
 ## Fork status and remotes
 
-- `origin` = `cristoslc/vikunja-pwa` (the fork; push here by default)
+- `origin` = `cristoslc/vikunja-pwa-fork` (the fork; push here by default), fork renamed from the GitHub default per the operator's fork-naming standard (`<repo>-fork`)
 - `upstream` = `Bassey240/vikunja-pwa`
 - Fork naming: directory is `vikunja-pwa-fork`, per operator fork convention. Do NOT seed collaboration surfaces (CONTRIBUTING, issue/PR templates) — those belong to upstream and must be read, not rewritten. Contributions upward go through `upstream` only with explicit operator authorization.
 - Keep upstream's AGPL-3.0 `LICENSE`, README attribution, and `CHANGELOG.md` format; fork-made entries go in the fork's `CHANGELOG.md` Unreleased section.
