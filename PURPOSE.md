@@ -1,0 +1,3 @@
+# Purpose
+
+Vikunja Attention is a fork of Bassey240/vikunja-pwa (AGPL-3.0) that adds an attention board: a view that routes tasks into live-state-derived lanes (pinned, overdue, due soon, stalled, snoozed) and treats drag-to-act as a state change. It serves an operator whose bottleneck is deciding what deserves attention now, not capturing tasks faster. Attention metadata (pin, snooze, last-attention timestamps) stays client-local; no server schema changes to Vikunja.
